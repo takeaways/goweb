@@ -5,6 +5,6 @@ func main(){
 	var b int
 	a=3
 	b=4
-
+	
 	fmt.Println(a+b)
 }
